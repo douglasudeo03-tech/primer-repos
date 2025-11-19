@@ -1,1 +1,5 @@
-
+producto, cantidad, valor
+celular, 3, $200
+monitor, 5, $120
+teclado, 2, $50
+total,10,$370
